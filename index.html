@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!-- Coding By CodingNepal - codingnepalweb.com -->
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <meta http-equiv="pragma" content="no-cache">
+    <title> TecTony VIP Magic Card Line </title>
+</head>
+
+<body>
+    <script src="https://static.line-scdn.net/liff/edge/2/sdk.js"></script>
+    <script>
+        async function fetchJson(name) {
+    const response = await fetch('json/'+name+'.json'); // แก้ไขเส้นทางให้ตรงกับไฟล์ JSON ของคุณ
+    if (!response.ok) {
+        throw new Error('Network response was not ok');
+    }
+    return await response.json();
+}
+
+async function sendShare(name,id) {
+  const flexContent = await fetchJson(name);
+  console.log(flexContent.tectony1[0]['linemsg']);
+  const result = await liff.shareTargetPicker([{
+        "type": "flex",
+        "altText": flexContent.tectony1[0]['linemsg'],
+        "contents": flexContent.tectony1[id]
+    }]);
+    if (result) {
+        
+        alert('แชร์ข้อความ Flex Message สำเร็จแล้ว!');
+        liff.closeWindow();
+        
+    } else {
+        
+        //alert('การแชร์ล้มเหลว');
+        
+    }
+
+
+}
+
+async function main() {
+    await liff.init({
+        liffId: "2006369394-v6aXnxVy" //<--- ID สำหรับ Line liff เปลี่ยนตรงนี้ 
+    });
+
+    const params = new URLSearchParams(window.location.search); // รับค่าพารามิเตอร์จาก URL
+    const id = params.get('id'); // รับค่าจากพารามิเตอร์ที่ชื่อว่า 'id'
+    const name = params.get('name'); // รับค่าจากพารามิเตอร์ที่่อว่า '
+if (liff.isLoggedIn()) {
+  sendShare(name,id);
+} else {
+  liff.login()
+  sendShare(name,id);
+}
+}
+
+document.addEventListener("DOMContentLoaded", async () => {
+    await main();
+});
+    </script>
+
+</body>
+
+</html>

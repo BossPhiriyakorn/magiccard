@@ -1,0 +1,845 @@
+
+{
+    "tectony1": [
+         {"linemsg":"เครื่องดื่มเพื่อสุขภาพที่ดีของคุณ"}, 
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "size": "full",
+            "aspectMode": "cover",
+            "url": "https://img5.pic.in.th/file/secure-sv1/1-Pack-16sachet.png"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "RoKabo-ローカーボ ",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เครื่องดื่มเพื่อเสริมสร้างสุขภาพที่แข็งแกร่ง",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "❤️คุณประโยชน์ ❤️",
+                "wrap": true,
+                "align": "center",
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "เสริมภูมิคุ้มกัน",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "สร้างเกราะป้องกันให้ร่างกายแข็งแรง ลดโอกาสการเจ็บป่วย",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "บำรุงสมองและอารมณ์",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "ช่วยให้สมองปลอดโปร่ง อารมณ์แจ่มใส ลดความวิตกกังวล ",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "ฟื้นฟูผิวสวย",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "บำรุงผิวให้แข็งแรง เปล่งปลั่ง และกระจ่างใสจากภายใน ",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "กระดูกแข็งแรง",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "อุดมด้วยวิตามิน K2 ธรรมชาติ ช่วยเสริมสร้างกระดูกโดยตรง",
+                "wrap": true,
+                "margin": "sm"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "https://rokabo.jp/"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Board&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "size": "full",
+            "aspectMode": "cover",
+            "url": "https://img5.pic.in.th/file/secure-sv1/18675c789605f8377.png"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "RoKabo Keto Drink",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "อร่อยสดชื่นแบบไม่ต้องกังวล! เครื่องดื่มโยเกิร์ตที่เป็นมิตรกับชาวคีโตโดยเฉพาะ",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "KETO Friendly",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "• เหมาะสำหรับผู้ที่ทานคีโต",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• ไม่เติมน้ำตาล",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• มีปริมาณแลคโตสต่ำมาก",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "เพื่อสุขภาพการเผาผลาญ",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "• ช่วยควบคุมความอยากอาหาร และทำให้อิ่มนานขึ้น",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• งานวิจัยพบว่าการทานผลิตภัณฑ์นมหมักส่งผลให้น้ำหนัก, BMI และรอบเอวลดลงอย่างมีนัยสำคัญใน 8 สัปดาห์",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "ดีต่อสุขภาพกายและใจ",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "• ช่วยลดคะแนนภาวะซึมเศร้าและความวิตกกังวลได้",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "เติมความสดชื่นสไตล์คีโตหลากรสชาติ",
+                "margin": "md",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "🍚รสลิ้นจี่ (Lychee)",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "🫐รสเบอร์รี (Mulberry)",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "🍓รสสตรอว์เบอร์รี (Strawberry)",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "🍊รสส้ม (Orange)",
+                "wrap": true,
+                "margin": "sm"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ขนาด: 200 มล.",
+            "align": "end"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "https://rokabo.jp/"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Board&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "size": "full",
+            "aspectMode": "cover",
+            "url": "https://img2.pic.in.th/pic/2a01b8b9388d99441.png"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "RoKabo Kefir Milk",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "พลังจากจุลินทรีย์ธรรมชาติ เพื่อร่างกายที่สมดุลจากภายใน",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เหนือกว่าด้วยกระบวนการหมัก",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "• มีโปรไบโอติกหลากหลายกว่า 100 สายพันธุ์ ",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• มีจุลินทรีย์ดีสูงถึง 25-50 พันล้านหน่วย",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "คุณค่าทางโภชนาการ",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "• โปรตีนคุณภาพสูง 10-13 กรัม ช่วยให้อิ่มนานขึ้น",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• เป็นแหล่งของวิตามินและแร่ธาตุจำเป็นหลายชนิด",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• ไม่เติมน้ำตาล",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "Probiotic Power",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "• อุดมด้วยวิตามิน K2 จากกระบวนการหมักตามธรรมชาติ ช่วยนำแคลเซียมไปเสริมสร้างกระดูกและฟัน",
+                "wrap": true,
+                "margin": "sm"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ขนาด: 240 มล.",
+            "align": "end"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "https://rokabo.jp/"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Board&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "size": "full",
+            "aspectMode": "cover",
+            "url": "https://img5.pic.in.th/file/secure-sv1/3f1b45e9a5558ed16.png"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "RoKabo Kefir Freeze Dry",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เครื่องดื่มนมหมักโพรไบโอติกส์หลากสายพันธุ์ ทำเองได้ง่ายๆ",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "คุณประโยชน์เด่น",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "• อุดมด้วยจุลินทรีย์มีประโยชน์ ช่วยปรับสมดุลระบบย่อยอาหาร",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• ทานง่ายสำหรับผู้ที่แพ้น้ำตาลแลคโตส",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• ได้คีเฟอร์สดใหม่พร้อมทานที่บ้าน",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "เลือกสูตรที่ใช่สำหรับคุณ",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "💙 ออริจินอล (Original): เพื่อเริ่มต้นดูแลสุขภาพลำไส้",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "💚 ไฟเบอร์ (Fiber+): เน้นระบบขับถ่าย",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "🩷 แคลเซียม (Calcium+): บำรุงกระดูกและฟันให้แข็งแรง",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "👨‍👩‍👧‍👦 สำหรับเด็ก (For Kids): สูตรทานง่าย เสริมภูมิคุ้มกันและการย่อยอาหาร",
+                "wrap": true,
+                "margin": "sm"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "https://rokabo.jp/"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Board&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "size": "full",
+            "aspectMode": "cover",
+            "url": "https://img2.pic.in.th/pic/4f265920c91ef4ea1.png"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ข้าวปลาวาฬ",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ผลิตภัณฑ์ทดแทนข้าว ที่ทำมาจากไฟเบอร์ธรรมชาติและโปรตีนสกัดจากปลาน้ำจืด",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "จุดเด่นที่สำคัญ",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "• ไร้แป้ง ไร้น้ำตาล: มีเน็ตคาร์บ (Net Carbs) 0 กรัม",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• ไฟเบอร์สูง: ช่วยให้อยู่ท้อง อิ่มนาน",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• แคลอรีต่ำ: เหมาะสำหรับควบคุมน้ำหนัก",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• Keto-Friendly และ Gluten-Free",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• พร้อมทาน (Ready to Eat): สะดวกในการรับประทาน",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "ข้อมูลทางโภชนาการ",
+                "margin": "md",
+                "align": "start",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "• พลังงาน: 19 แคลอรี",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• ไขมัน: 0 กรัม",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• แป้งและน้ำตาล: 0 กรัม",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• ใยอาหาร: 10 กรัม",
+                "wrap": true,
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "• โปรตีน: 5 กรัม",
+                "wrap": true,
+                "margin": "sm"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ขนาด: 100 กรัม",
+            "align": "end"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "https://rokabo.jp/"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Board&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    }
+  ]
+}
+]
+  }

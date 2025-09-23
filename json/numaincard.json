@@ -1,0 +1,1240 @@
+
+  {
+    "tectony1": [
+         {"linemsg":"Business Card"}, 
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/Image_25680423_221448.png",
+            "size": "3xl",
+            "aspectRatio": "9:16",
+            "offsetTop": "40px",
+            "animated": true
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Architectural Design",
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "Interior Design",
+                "wrap": true,
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "Built-in",
+                "weight": "bold",
+                "wrap": true,
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "รับออกแบบ บ้าน ร้านค้า คาเฟ่ คลินิก",
+                "align": "center",
+                "weight": "regular"
+              }
+            ],
+            "spacing": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "👨🏻‍💻นัดสำรวจหน้างาน👨🏻‍💻",
+                "wrap": true,
+                "weight": "bold",
+                "align": "center",
+                "color": "#F94C4A",
+                "size": "md"
+              },
+              {
+                "type": "text",
+                "text": "และให้คำปรึกษาเบื้องต้น ฟรี❗️",
+                "size": "md",
+                "weight": "bold",
+                "wrap": true,
+                "align": "center",
+                "color": "#F94C4A"
+              }
+            ],
+            "margin": "xxl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "VISH ARCHITECT",
+                "color": "#FFFFFF",
+                "weight": "bold",
+                "align": "center",
+                "action": {
+                  "type": "uri",
+                  "label": "VISH ARCHITECT CO.,LTD.",
+                  "uri": "http://www.visharchitect.co.th/"
+                }
+              }
+            ]
+          }
+        ],
+        "backgroundColor": "#B13E3E"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/Image_25680423_221102.jpeg",
+            "size": "full",
+            "aspectMode": "cover"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/Boss/Test/PO/2.png"
+              }
+            ],
+            "maxHeight": "50px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pitsanu Krongsut (Nu)",
+                "size": "lg",
+                "weight": "bold",
+                "align": "center",
+                "color": "#FFFFFF"
+              },
+              {
+                "type": "text",
+                "text": "VISH ARCHITECT CO., LTD.",
+                "size": "xs",
+                "weight": "regular",
+                "align": "center",
+                "color": "#FFFFFF"
+              }
+            ],
+            "position": "absolute",
+            "backgroundColor": "#B13E3E",
+            "offsetTop": "280px",
+            "offsetStart": "25px",
+            "width": "250px",
+            "cornerRadius": "15px"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/main/gif/call2.png",
+                "flex": 0,
+                "size": "25px",
+                "animated": true
+              },
+              {
+                "type": "text",
+                "text": "Tel.082-654-9614‬",
+                "size": "md",
+                "weight": "bold",
+                "action": {
+                  "type": "uri",
+                  "label": "Tel",
+                  "uri": "tel:+66826549614"
+                }
+              }
+            ],
+            "flex": 0
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/main/gif/mail2.png",
+                "size": "25px",
+                "flex": 0,
+                "animated": true
+              },
+              {
+                "type": "text",
+                "text": "pitsanu.k@visharchitect.co.th",
+                "size": "md",
+                "weight": "bold",
+                "margin": "none",
+                "align": "start",
+                "gravity": "bottom"
+              }
+            ],
+            "flex": 0
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/Facebook_Logo_2019ae293a6674a57770.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "FacebookTec",
+                  "uri": "https://www.facebook.com/visharchitect/"
+                },
+                "offsetTop": "10px"
+              },
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/Instagram-Logo.wine.png",
+                "size": "sm",
+                "action": {
+                  "type": "uri",
+                  "label": "HappySmart",
+                  "uri": "http://www.instagram.com/vish_architect"
+                },
+                "aspectMode": "cover"
+              },
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/Image_25680423_221448.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "Tectony",
+                  "uri": "https://www.visharchitect.co.th"
+                },
+                "gravity": "center"
+              }
+            ],
+            "margin": "none",
+            "spacing": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "Share",
+                  "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=numaincard&id=1"
+                },
+                "height": "sm",
+                "style": "primary",
+                "color": "#B13E3E"
+              }
+            ],
+            "margin": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/8.-------1.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HappySmart",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "กล่องแจ้งเตือนแผ่นดินไหว",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📱⚡️รู้ก่อน ป้องกันได้ก่อน ติดตั้งได้ทั้งในบ้าน คอนโด และอาคาร ฯลฯ ดูกราฟแรงสั่นได้แบบเรียลไทม์ แจ้งเตือนผ่านหน้าจอมือถือ",
+                "wrap": true,
+                "align": "start",
+                "margin": "md"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เริ่มต้น 20,000 บาท เท่านั้น",
+            "weight": "bold",
+            "align": "center",
+            "size": "lg",
+            "color": "#C82333"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "http://m.me/happysmart.co"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=numaincard&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/Smartin.png",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Smart Interior",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ออกแบบบ้าน พร้อมติดตั้งสมาร์ทโฮม",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🏠ออกแบบบ้าน,คอนโด,ออฟฟิศ🏢ตกแต่งพร้อมติดตั้งระบบสมาร์ทโฮม 📱ครบวงจร ใช้คุมได้ทุกอุปกรณ์ผ่านแอปเพียงแอปเดียวเท่านั้น",
+                "wrap": true,
+                "align": "start",
+                "margin": "md"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ฟรีค่าออกแบบ !!",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg",
+                "color": "#FF3333"
+              }
+            ],
+            "spacing": "none",
+            "margin": "lg"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เริ่มต้น 15,000 บาท/ตร.ม.",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg",
+                "color": "#C82333"
+              }
+            ],
+            "margin": "xl"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "http://m.me/happysmart.co"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=numaincard&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://tectony.co.th/wp-content/uploads/flexcards/Boss/TTG2.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "animated": true
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "TecTony",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "AI SEO & OnlineMarketing",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🌐ออกแบบเว็บไซต์ SEO วิเคราะห์แม่นยำด้วย AI",
+                "wrap": true,
+                "align": "start",
+                "margin": "md"
+              },
+              {
+                "type": "text",
+                "text": "🎉การตลาดโซเซียลมีเดียทุกช่องทางด้วยทีมงานมืออาชึพ",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "📱ธุรกิจเติบโตแบบก้าวกระโดด เพิ่มการมองเห็นได้มากยิ่งขึ้น",
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "http://m.me/TecTonyMarketing"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=numaincard&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/Untitled-133e350a4b96083fd.png",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Flow and Fine",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบบ้านหายใจได้",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🏠🌬ระบบอากาศที่ทำให้บ้านคุณหายใจได้  เพิ่มอากาศดี ลดอากาศเสีย ลดกลิ่นอับ ระบายความชื้น ลดโอกาสการเกิดเชื้อรา💨 หมดกังวลแม้ไม่อยู่บ้าน",
+                "wrap": true,
+                "align": "start",
+                "margin": "md"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เริ่มต้น 30,000 บาทเท่านั้น‬",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg",
+                "color": "#C82333"
+              }
+            ],
+            "margin": "xl"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "http://m.me/happysmart.co"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=numaincard&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/0aeb2e7a884ec06cdca711ae3ed6c46b.png",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HOUSE FOR SALE",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "บ้านเดี่ยวพูลวิลล่าหัวหิน",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🏡บ้านทั้งหลังพื้นที่ใช้สอย 510 ตรม.",
+                "wrap": true,
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "🛌พูลวิลล่า 4 ห้องนอน 5 ห้องน้ำ",
+                "wrap": true,
+                "align": "center",
+                "margin": "none"
+              },
+              {
+                "type": "text",
+                "text": "🏊‍♂️สระว่ายน้ำ 11.5 × 4.35 เมตร",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "🚗พื้นที่จอดรถ 2 คัน ",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "📝ที่ดิน 100 ตารางวา",
+                "align": "center"
+              }
+            ],
+            "margin": "md"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ราคา 7.9 ล้านบาท",
+            "align": "center",
+            "size": "lg",
+            "margin": "md",
+            "weight": "bold",
+            "color": "#C82333"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "☎️ติดต่อ",
+              "uri": "https://www.facebook.com/profile.php?id=61572992485496"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=numaincard&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/4.-5b1323256009814e.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "The Modern Pool Villa",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "พูลวิลล่าหัวหิน",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🏡บ้านทั้งหลังพักได้ 10-17 ท่าน",
+                "wrap": true,
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "♥️สิ่งอำนวยความสะดวก♥️",
+                "wrap": true,
+                "align": "center",
+                "margin": "md"
+              },
+              {
+                "type": "text",
+                "text": "🏊‍♂️สระว่ายน้ำ",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "🎤ห้องคาราโอเกะ",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "🍢เตาย่าง BBQ",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "✔️อื่นๆ อีกมากมาย",
+                "align": "center"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ราคาเริ่มต้น 5,900 บาท/คืน",
+            "align": "center",
+            "size": "lg",
+            "margin": "md",
+            "weight": "bold",
+            "color": "#C82333"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "https://www.facebook.com/profile.php?id=61572992485496"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=numaincard&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/4bff3d0126ee9d288.png",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/TouchScreen.png",
+                "size": "sm"
+              },
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/4KDISPLAY.png",
+                "size": "sm"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/AndroidOS.png",
+                "size": "sm"
+              },
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/Bluetooth.png",
+                "size": "sm"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/WIFI.png",
+                "size": "sm"
+              },
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/camera.png",
+                "size": "sm"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "☎️ติดต่อ",
+              "uri": "tel:+66931839000"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=numaincard&id=1"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#E6E6E6"
+        },
+        "footer": {
+          "backgroundColor": "#E6E6E6"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/sfafsaf.png",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🌟จอสัมผัสอัจฉริยะ🌟",
+                "size": "lg",
+                "weight": "bold",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "หน้าจอคมชัดระดับ 4K",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "รองรับทั้งระบบปฏิบัติการ",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": " Android และ Windows",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "ขุมพลัง Intel Core i7 ",
+                "wrap": true,
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "รองรับการสัมผัสสูงสุด 40 จุด",
+                "wrap": true,
+                "align": "center"
+              }
+            ],
+            "margin": "lg",
+            "spacing": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/b2/1.png",
+                "size": "xs"
+              },
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/b2/2.png",
+                "size": "xs"
+              },
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/b2/3.png",
+                "size": "xs"
+              }
+            ],
+            "spacing": "none",
+            "margin": "xs"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/b2/4.png",
+                "size": "xs"
+              },
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/b2/5.png",
+                "size": "xs"
+              },
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/TV/b2/6.png",
+                "size": "xs"
+              }
+            ],
+            "spacing": "xs"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "☎️ติดต่อ",
+              "uri": "tel:+66931839000"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=numaincard&id=1"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#E6E6E6"
+        },
+        "footer": {
+          "backgroundColor": "#E6E6E6"
+        }
+      }
+    }
+  ]
+}
+]
+  }

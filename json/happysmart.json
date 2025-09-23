@@ -1,0 +1,429 @@
+
+{
+    "tectony1": [
+         {"linemsg":"HappySmart Products"},
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://happysmart.co/wp-content/uploads/2024/06/Untitled-2.webp",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HappySmart",
+                "align": "center",
+                "size": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "ทันสมัย สะดวก ใช้งานง่าย",
+                "align": "center",
+                "color": "#C82333",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "ตอบโจทย์ทุกไลฟ์ไสล์",
+                "align": "center",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบอัจฉริยะแห่งความสุข และการออกแบบที่ลงตัว สู่ความสมบูรณ์แบบของชีวิต",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "https://lin.ee/AOvT4ZYP"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=happysmart&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/1.-Happy-Smart.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HappySmart",
+                "align": "center",
+                "size": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "แอปเดียวควบคุมทุกอุปกรณ์",
+                "align": "center",
+                "color": "#C82333",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Happy Smart ควบคุมทุกอุปกรณ์ของคุณผ่านแอปเดียว ใช้งานง่าย ไม่ต้องสลับหลายแอปให้ยุ่งยาก",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "https://lin.ee/AOvT4ZYP"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=happysmart&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/13.-e40c5240e8625e45.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "อยู่ที่ไหนก็ควบคุมได้",
+                "align": "center",
+                "color": "#C82333",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "การควบคุมบ้านสมาร์ทผ่านแอปเดียวทำให้ชีวิตของคุณสะดวกสบาย ไม่ว่าคุณจะอยู่ที่ไหน ทุกฟังก์ชันในบ้านก็สามารถควบคุมได้จากมือถือ",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "https://lin.ee/AOvT4ZYP"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=happysmart&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/Smartin.png",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Smart Interior",
+                "align": "center",
+                "size": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "ออกแบบบ้าน พร้อมติดตั้งสมาร์ทโฮม",
+                "align": "center",
+                "color": "#C82333",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🏠ออกแบบบ้าน,คอนโด,ออฟฟิศ🏢ตกแต่งพร้อมติดตั้งระบบสมาร์ทโฮม 📱ครบวงจร ใช้คุมได้ทุกอุปกรณ์ผ่านแอปเพียงแอปเดียวเท่านั้น",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ฟรีค่าออกแบบ !!",
+                "align": "center",
+                "wrap": true,
+                "size": "lg",
+                "color": "#FF3333",
+                "weight": "bold"
+              }
+            ],
+            "margin": "none"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "https://lin.ee/AOvT4ZYP"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=happysmart&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/Untitled-133e350a4b96083fd.png",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบบ้านหายใจได้",
+                "align": "center",
+                "color": "#C82333",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🏠🌬ระบบอากาศที่ทำให้บ้านคุณหายใจได้  เพิ่มอากาศดี ลดอากาศเสีย ลดกลิ่นอับ ระบายความชื้น ลดโอกาสการเกิดเชื้อรา💨 หมดกังวลแม้ไม่อยู่บ้าน",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "https://lin.ee/AOvT4ZYP"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=happysmart&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    }
+  ]
+}
+]
+  }

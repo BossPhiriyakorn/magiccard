@@ -1,0 +1,488 @@
+{
+    "tectony1": [
+         {"linemsg":"EarthQuake Sensor"}, 
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/8.------.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "QuakeFrog",
+                "align": "center",
+                "size": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "ระบบแจ้งเตือนแผ่นดินไหว",
+                "align": "center",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รู้ทันที📱⚡️สัญญาณเตือนภัยแผ่นดินไหว ส่งตรงถึงมือถือคุณทันทีที่ตรวจพบแรงสั่นสะเทือน",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "https://lin.ee/kGHlQ9G"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Quakefron&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/7.-...-.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ใช้งานง่าย รับรู้เร็ว ตลอด 24 ชม.",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "✅แจ้งเตือนตรงเข้ามือถือ",
+                "align": "center",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "✅ดูกราฟได้แบบเรียลไทม์",
+                "align": "center",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "✅เชื่อมต่อเข้ากับสมาร์ทโฮม",
+                "align": "center",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "✅เพิ่มเสียงสัญญาณไซเรนได้",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "https://lin.ee/kGHlQ9G"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Quakefron&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/5.-2--.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เตือนทันที 2 ระบบ",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รับรู้ภัยได้เร็วกว่า 🚨 แจ้งเตือนชัดเจนทั้งภาพและเสียง  เพิ่มโอกาสในการป้องกันและหลบภัย",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "https://lin.ee/kGHlQ9G"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Quakefron&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/3.1....----.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบทำงานตลอด 24 ชม.",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "พักผ่อนเต็มที่อย่างไร้กังวล 😌  เซนเซอร์ของระบบตรวจจับแผ่นดินไหว ทำงานเงียบๆ ตลอด 24 ชม. พร้อมปลุกคุณทันทีหากมีสัญญาณอันตราย ให้การพักผ่อนของคุณคือการพักผ่อนที่แท้จริง ",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "https://lin.ee/kGHlQ9G"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Quakefron&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/6.1.-.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ตรวจสอบสถานะได้ทุกที่",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "อยู่นอกบ้านก็อุ่นใจได้ 📱💨  ระบบตรวจจับแผ่นดินไหวส่งการแจ้งเตือน ส่งตรงถึงมือถือคุณทันที ไม่ว่าคุณจะอยู่ที่ไหน ให้คุณรู้สถานการณ์และติดต่อคนที่บ้านได้ทันท่วงที ",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "https://lin.ee/kGHlQ9G"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Quakefron&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/1.-1-1.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": " เตรียมพร้อมไว้ได้ก่อน ระบบเตือนภัยแผ่นดินไหว",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ช่วยให้คุณมีเวลาอันมีค่าในการช่วยเหลือเด็ก ผู้สูงอายุ หรือผู้ที่ต้องการความดูแลเป็นพิเศษ ให้ไปยังจุดที่ปลอดภัยได้ทันท่วงที ",
+                "wrap": true
+              }
+            ],
+            "margin": "lg"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "https://lin.ee/kGHlQ9G"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Quakefron&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    }
+  ]
+}
+]
+  }

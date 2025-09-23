@@ -1,0 +1,978 @@
+{
+    "tectony1": [
+         {"linemsg":"Smart Love แพ็กเกจ สำหรับคนที่คุณรัก"},
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://tectony.co.th/wp-content/uploads/flexcards/tony/1.1.png",
+            "size": "full",
+            "aspectMode": "cover"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/Boss/Test/PO/2.png"
+              }
+            ],
+            "maxHeight": "50px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "AI Solutions & SmartHome",
+                "size": "lg",
+                "align": "center",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "offsetTop": "5px",
+                "weight": "bold"
+              }
+            ],
+            "position": "absolute",
+            "backgroundColor": "#5E81AC",
+            "offsetTop": "300px",
+            "offsetStart": "25px",
+            "width": "250px",
+            "cornerRadius": "15px",
+            "height": "40px"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/main/gif/aitec2.png",
+                "size": "sm",
+                "offsetStart": "10px",
+                "animated": true
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "90px",
+            "offsetStart": "215px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/main/gif/call2.png",
+                "flex": 0,
+                "size": "25px",
+                "animated": true
+              },
+              {
+                "type": "text",
+                "text": "Tel.093-183-9000",
+                "size": "lg",
+                "weight": "bold",
+                "action": {
+                  "type": "uri",
+                  "label": "Tel",
+                  "uri": "tel:+66931839000"
+                }
+              }
+            ],
+            "flex": 0
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/main/gif/mail2.png",
+                "size": "25px",
+                "flex": 0,
+                "animated": true
+              },
+              {
+                "type": "text",
+                "text": "tony@tectony.co.th",
+                "size": "lg",
+                "weight": "bold"
+              }
+            ],
+            "flex": 0
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🙏🏻สวัสดีครับ🙏🏻",
+                "align": "center",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "ขออนุญาต update 😁",
+                "size": "md",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "สิ่งที่ทำและเบอร์ติดต่อปัจจุบันครับ😁",
+                "align": "center",
+                "size": "md"
+              }
+            ],
+            "margin": "xxl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/main/Button/facebook.png",
+                "size": "sm",
+                "action": {
+                  "type": "uri",
+                  "label": "FacebookTec",
+                  "uri": "https://www.facebook.com/TecTonyMarketing"
+                }
+              },
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/main/Button/happysmart.png",
+                "size": "sm",
+                "action": {
+                  "type": "uri",
+                  "label": "HappySmart",
+                  "uri": "https://happysmart.co/"
+                }
+              },
+              {
+                "type": "image",
+                "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/main/Button/tectony.png",
+                "size": "sm",
+                "action": {
+                  "type": "uri",
+                  "label": "Tectony",
+                  "uri": "https://tectony.co.th"
+                }
+              }
+            ],
+            "margin": "none",
+            "spacing": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "Share",
+                  "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=smartlove&id=1"
+                },
+                "height": "sm",
+                "style": "primary",
+                "color": "#5E81AC"
+              }
+            ],
+            "margin": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://tectony.co.th/wp-content/uploads/flexcards/2025/Smartin.png",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Smart Interior",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ออกแบบบ้าน พร้อมติดตั้งสมาร์ทโฮม",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🏠ออกแบบบ้าน,คอนโด,ออฟฟิศ🏢ตกแต่งพร้อมติดตั้งระบบสมาร์ทโฮม 📱ครบวงจร ใช้คุมได้ทุกอุปกรณ์ผ่านแอปเพียงแอปเดียวเท่านั้น",
+                "wrap": true,
+                "align": "start",
+                "margin": "md"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ฟรีค่าออกแบบ !!",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg",
+                "color": "#FF3333"
+              }
+            ],
+            "spacing": "none",
+            "margin": "lg"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "margin": "xl"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "http://m.me/happysmart.co"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=smartlove&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/1.Smart-Love---.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Smart Love",
+                "align": "center",
+                "size": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "ใช้ง่าย ปลอดภัย เพื่อคนที่คุณรัก ",
+                "align": "center",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "บ้านหรือห้องสำหรับคนที่คุณรัก ",
+                "align": "center",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "ด้วยดีไซน์ + เทคโนโลยีเพื่อ",
+                "align": "center",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": " “ความปลอดภัย สุขภาพ ความสบายใจ” ให้กับทุกคนในครอบครัว",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "tel:+66931839000"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=smartlove&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/2.bc573bfe3e74ecab.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "หมดห่วงเรื่องการลืมปิดประตูหรือหน้าต่างในบ้าน",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ป้องกันความผิดพลาดจากการลืมปิดประตูหรือหน้าต่าง Smart Love แจ้งเตือนคุณทันทีว่ามีการลืมปิดหน้าต่างหรือประตูตลอด 24 ชม. ",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "tel:+66931839000"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=smartlove&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/3.-8233be7a5da66512.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ปลดล็อคง่ายด้วยนิ้วมือหรือใบหน้าและรับแจ้งเตือนทันทีเมื่อมีการเปิดประตู",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เข้าบ้านสะดวก ง่าย แจ้งเตือนผ่านมือถือทันทีเมื่อมีการเข้าออก",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "tel:+66931839000"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=smartlove&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/4.35c778edaca2ef86.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เซนเซอร์ตรวจจับ",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "รับรู้ได้ทันทีเมื่อเกิดเหตุฉุกเฉินในบ้านกับคนที่คุณรัก ",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "แจ้งเตือนทันทีเมื่อเกิดเหตุฉุกเฉินเช่น การล้มในบ้านหรือในห้องน้ำ",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "tel:+66931839000"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=smartlove&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/5.-ff013ee1aa24aaf5.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "บ้านที่หายใจได้ เพื่อสุขภาพที่ดีกว่า",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "บ้านอัจฉริยะที่หายใจได้: ระบบหมุนเวียนอากาศพร้อมจัดการ CO₂, ลดกลิ่นอับ, ป้องกันเชื้อรา เพื่ออากาศบริสุทธิ์ทั่วทั้งบ้าน",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "tel:+66931839000"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=smartlove&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/6.-961dc462e04bea8b.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "คลื่นเสียงธรรมชาติ เพื่อการพักผ่อนที่สงบสำหรับคนที่คุณรัก",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "มอบการพักผ่อนที่สงบและผ่อนคลายให้ผู้สูงอายุ ด้วยคลื่นเสียง 432Hz ที่เปรียบเสมือนเสียงธรรมชาติและได้รับการวิจัยแลัวว่าส่งผลดีต่อสภาพจิตใจและการพักผ่อนที่สงบ",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "tel:+66931839000"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=smartlove&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/7.Smart-Love---.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": " ดูแลทุกย่างก้าว นำทางอัตโนมัติ ไม่ต้องต้องหาสวิตซ์เปิดไฟ",
+                "align": "center",
+                "color": "#C82333",
+                "weight": "bold",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "มอบความปลอดภัยและความสะดวกในการเคลื่อนไหวเวลากลางคืนโดยไม่รบกวนผู้อื่น",
+                "align": "center",
+                "wrap": true
+              }
+            ],
+            "margin": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อ",
+              "uri": "tel:+66931839000"
+            },
+            "height": "sm",
+            "style": "primary",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=smartlove&id=1"
+            },
+            "height": "sm",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/8.-------1.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HappySmart",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "กล่องแจ้งเตือนแผ่นดินไหว",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📱⚡️รู้ก่อน ป้องกันได้ก่อน ติดตั้งได้ทั้งในบ้าน คอนโด และอาคาร ฯลฯ ดูกราฟแรงสั่นได้แบบเรียลไทม์ แจ้งเตือนผ่านหน้าจอมือถือ",
+                "wrap": true,
+                "align": "start",
+                "margin": "md"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "http://m.me/happysmart.co"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=smartlove&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    }
+  ]
+}
+]
+  }

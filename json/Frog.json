@@ -1,0 +1,931 @@
+
+{
+    "tectony1": [
+         {"linemsg":"MagicCardLine"}, 
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/8.-------1.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HappySmart",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "กล่องแจ้งเตือนแผ่นดินไหว",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📱⚡️รู้ก่อน ป้องกันได้ก่อน ติดตั้งได้ทั้งในบ้าน คอนโด และอาคาร ฯลฯ ดูกราฟแรงสั่นได้แบบเรียลไทม์ แจ้งเตือนผ่านหน้าจอมือถือ",
+                "wrap": true,
+                "align": "start",
+                "margin": "md"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เริ่มต้น 20,000 บาท เท่านั้น",
+            "weight": "bold",
+            "align": "center",
+            "size": "lg",
+            "color": "#C82333"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "http://m.me/happysmart.co"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Frog&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/3.---15000--1.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/42a767dd8437efea6.png",
+                "size": "3xl",
+                "aspectMode": "cover",
+                "offsetBottom": "70px"
+              }
+            ],
+            "position": "absolute",
+            "offsetStart": "135px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/5e68935eec49f61a3.png",
+                "size": "3xl",
+                "aspectMode": "cover",
+                "offsetBottom": "70px"
+              }
+            ],
+            "position": "absolute",
+            "offsetEnd": "135px"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HappySmart",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รับตกแต่งบ้าน ติดตั้งสมาร์ทโฮม",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🏠ออกแบบบ้าน,คอนโด,ออฟฟิศ🏢ตกแต่งพร้อมติดตั้งระบบสมาร์ทโฮม 📱ครบวงจร ใช้คุมได้ทุกอุปกรณ์ผ่านแอปเพียงแอปเดียวเท่านั้น",
+                "wrap": true,
+                "align": "start",
+                "margin": "md"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ฟรีค่าออกแบบภายใน",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg",
+                "color": "#FF3333"
+              }
+            ],
+            "spacing": "none",
+            "margin": "lg"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เริ่มต้น 15,000 บาท/ตร.ม.",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg",
+                "color": "#C82333"
+              }
+            ],
+            "margin": "xl"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "http://m.me/happysmart.co"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Frog&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://tectony.co.th/wp-content/uploads/flexcards/Boss/TTG2.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "animated": true
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "TecTony",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "AI SEO & OnlineMarketing",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🌐ออกแบบเว็บไซต์ SEO วิเคราะห์แม่นยำด้วย AI",
+                "wrap": true,
+                "align": "start",
+                "margin": "md"
+              },
+              {
+                "type": "text",
+                "text": "🎉การตลาดโซเซียลมีเดียทุกช่องทางด้วยทีมงานมืออาชึพ",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "📱ธุรกิจเติบโตแบบก้าวกระโดด เพิ่มการมองเห็นได้มากยิ่งขึ้น",
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "http://m.me/TecTonyMarketing"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Frog&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/Untitled-133e350a4b96083fd.png",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Flow and Fine",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบบ้านหายใจได้",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🏠🌬ระบบอากาศที่ทำให้บ้านคุณหายใจได้  เพิ่มอากาศดี ลดอากาศเสีย ลดกลิ่นอับ ระบายความชื้น ลดโอกาสการเกิดเชื้อรา💨 หมดกังวลแม้ไม่อยู่บ้าน",
+                "wrap": true,
+                "align": "start",
+                "margin": "md"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เริ่มต้น 30,000 บาทเท่านั้น‬",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg",
+                "color": "#C82333"
+              }
+            ],
+            "margin": "xl"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "http://m.me/happysmart.co"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Frog&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/0aeb2e7a884ec06cdca711ae3ed6c46b.png",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HOUSE FOR SALE",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "บ้านเดี่ยวพูลวิลล่าหัวหิน",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🏡บ้านทั้งหลังพื้นที่ใช้สอย 510 ตรม.",
+                "wrap": true,
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "🛌พูลวิลล่า 4 ห้องนอน 5 ห้องน้ำ",
+                "wrap": true,
+                "align": "center",
+                "margin": "none"
+              },
+              {
+                "type": "text",
+                "text": "🏊‍♂️สระว่ายน้ำ 11.5 × 4.35 เมตร",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "🚗พื้นที่จอดรถ 2 คัน ",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "📝ที่ดิน 100 ตารางวา",
+                "align": "center"
+              }
+            ],
+            "margin": "md"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ราคา 7.9 ล้านบาท",
+            "align": "center",
+            "size": "lg",
+            "margin": "md",
+            "weight": "bold",
+            "color": "#C82333"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "☎️ติดต่อ",
+              "uri": "https://www.facebook.com/profile.php?id=61572992485496"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Frog&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/4.-5b1323256009814e.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "The Modern Pool Villa",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "พูลวิลล่าหัวหิน",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🏡บ้านทั้งหลังพักได้ 10-17 ท่าน",
+                "wrap": true,
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "♥️สิ่งอำนวยความสะดวก♥️",
+                "wrap": true,
+                "align": "center",
+                "margin": "md"
+              },
+              {
+                "type": "text",
+                "text": "🏊‍♂️สระว่ายน้ำ",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "🎤ห้องคาราโอเกะ",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "🍢เตาย่าง BBQ",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "✔️อื่นๆ อีกมากมาย",
+                "align": "center"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ราคาเริ่มต้น 5,900 บาท/คืน",
+            "align": "center",
+            "size": "lg",
+            "margin": "md",
+            "weight": "bold",
+            "color": "#C82333"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "https://www.facebook.com/profile.php?id=61572992485496"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Frog&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://mongkolbuddha.com/wp-content/uploads/2024/05/IMG_7598-1024x1024.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "MongKolBuddhha",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "มงคลทรัพย์อุ่นใจ",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "wrap": true,
+                "align": "center",
+                "text": "กำไลที่สายมูทุกคนต้องมี สายมูสุดล้ำเพียงสแกน ก็เช็คดวง เปิดไพ่ ได้ทันที 🔮🎴"
+              }
+            ],
+            "margin": "md"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "http://m.me/mongkolbuddha9"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Frog&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/471299970_1422626682397189_456873983014126066_n.jpg",
+            "size": "full",
+            "aspectMode": "cover"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไส้อั่วในตำนาน",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ตลาดอัศวิน ลำปาง ",
+                "margin": "sm",
+                "align": "center",
+                "size": "md",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "wrap": true,
+                "align": "center",
+                "text": "คุณถนอม ตลาดอัศวิน ไส้อั่ว 🌶น้ำพริกหนุ่ม 🐖แคปหมู เจ้าเก่า สูตรเด็ด"
+              }
+            ],
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "สูตรเด็ดท้าให้ลอง ‼️",
+                "align": "center",
+                "size": "lg",
+                "weight": "bold",
+                "color": "#C82333"
+              }
+            ],
+            "margin": "md"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💬ติดต่อ",
+              "uri": "https://page.line.me/yql4546f?openQrModal=true"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm",
+            "color": "#255E9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/2006369394-v6aXnxVy?name=Frog&id=1"
+            },
+            "gravity": "center",
+            "style": "primary",
+            "height": "sm",
+            "margin": "sm"
+          }
+        ]
+      }
+    }
+  ]
+}
+]
+  }
