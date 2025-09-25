@@ -106,7 +106,7 @@ async function sendShare() {
     }
 }
 async function main() {
-    await liff.init({ liffId: "2006369394-v6aXnxVy" });
+    await liff.init({ liffId: "2006438841-7A2RNRKG" });
 
     if (liff.isLoggedIn()) {
         sendShare();
